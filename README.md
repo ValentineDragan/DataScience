@@ -1,6 +1,6 @@
 # Data Science
 
-This project was developed for the Introductory Applied Machine Learning course at The University of Edinburgh.
+This project was developed for the **Introductory Applied Machine Learning course** at The University of Edinburgh.
 
 It implements a series of Supervised and Unsupervised Learning tasks on the datasets with the goal of understanding the data and predicting/classifying new data points.
 
