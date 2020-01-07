@@ -16,12 +16,12 @@ The datasets used in Part A and B, found in the Data folder:
 
 ### Description of Files
 
-* Assignment2_PartA.ipynb - Performs three main tasks on the 20 Newsgroups Dataset
+* **Assignment2_PartA.ipynb** - contains the code for the three main tasks on the 20 Newsgroups Dataset
   * Exploratory Analysis: summarises the key observations with regards to dimensionality, distribution, data ranges
   * Unsupervised Learning: performs and optimises **K-means Clustering** in order to learn new things about the data
   * Supervised Learning: performs **Logistic Regression Classification** on the data to predict which Newsgroup a new News Document belongs to
 
-* Assignment2_PartB.ipynb - Performs three main tasks on the Bristol Air Quality Dataset
+* **Assignment2_PartB.ipynb** - contains the code for the three main tasks on the Bristol Air Quality Dataset
   * Exploratory Analysis: summarises the key observations with regards to dimensionality, distribution, data ranges and problematic features
   * Dimensionality Reduction: performs **Principle Component Analysis** in order to find the main drivers in the data 
   * Supervised Learning: predicts the NOx level for Site 17 (one of the sites) given the value at the other sites, using three different models: **Linear Regression**, **K-NN Regression** and **Decision Tree Regression**
